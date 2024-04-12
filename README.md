@@ -5,6 +5,7 @@
 ### 3. List of Python string methods : https://www.w3schools.com/python/python_ref_string.asp
 ### 4. Python for Transportation Modelers: https://pytransport.github.io/
 ### 5. Build Python Packages: https://www.youtube.com/watch?v=5KEObONUkik
+### 6. Python logging: https://www.youtube.com/watch?si=pkpZPLYQkwCGcojM&v=pxuXaaT1u3k&feature=youtu.be,
  
 
 
